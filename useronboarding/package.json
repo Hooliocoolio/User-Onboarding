@@ -1,4 +1,4 @@
-git {
+{
   "name": "useronboarding",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,9 @@ git {
     "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-icons": "^3.10.0",
     "react-scripts": "3.4.1",
+    "reactstrap": "^8.4.1",
     "yup": "^0.28.5"
   },
   "scripts": {
