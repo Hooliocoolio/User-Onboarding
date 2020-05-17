@@ -42,3 +42,7 @@
   width: 80%;
   margin:auto;
 }
+
+label {
+  font-weight: bold;
+}
